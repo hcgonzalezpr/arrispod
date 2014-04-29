@@ -1,4 +1,4 @@
-arrispod
+Arris POD
 ========
 
-ArrisPOD
+Arris POD is a port of arrispwgen:"https://github.com/borfast/arrispwgen" for Android.
